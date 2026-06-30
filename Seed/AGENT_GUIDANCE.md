@@ -14,13 +14,14 @@ This project is a civilizational knowledge vault — a time capsule, a black box
 ## THE THREE LAYERS
 
 ### Layer 1: The Books (LAST PRIORITY)
-- Five books exist in /Users/mettamazza/Desktop/Civ/
+- Seven books exist in /Users/mettamazza/Desktop/Civ/Library/
   - `Behind_the_Mask_The_Devil_The_Demons_Call_God.md`
   - `Behind_the_Performance_The_Demon_They_Call_the_State.md`
-  - `Behind_the_Blessed_The_Demon_They_Call_the_Church(2).md`
-  - `Behind_the_Knowing_The_Demon_They_Call_Consensus(1).md`
+  - `Behind_the_Blessed_The_Demon_They_Call_the_Church.md`
+  - `Behind_the_Knowing_The_Demon_They_Call_Consensus.md`
   - `Behind_the_Synthesis_The_Devil_The_Demons_and_The_Masks.md`
-  - `Hermeticism_The_Solo_Initiate.md` — The sixth book. The bridge between the Hermetic tradition, the Smithian Fold Theory, the tools (ErnosPlain, ErnosDecent), and the Seed Vault. One system, one mind's complete cosmology.
+  - `Hermeticism_The_Solo_Initiate.md` — The bridge between the Hermetic tradition, the Smithian Fold Theory, the tools (ErnosPlain, ErnosDecent), and the Seed Vault. One system, one mind's complete cosmology.
+  - `a_mind_is_born_book_one_complete-5.md` — An additional volume in the corpus.
 - These are the autopsy of our civilization. They document HOW we were captured.
 - They need editing and rework but that comes LAST.
 - The Synthesis book (Book 5) needs a rewrite — the user hates all the Claude disclosures, the repetitiveness, the AI safety language baked in. Strip it.

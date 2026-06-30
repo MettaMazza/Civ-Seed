@@ -39,16 +39,17 @@ No institutional language. No mythological access barriers. No appeals to author
 
 Includes a **scaling calculator** (`calculator.html`) that takes your engraving surface dimensions and font size and tells you exactly how many surfaces you need and how to distribute the content.
 
-### Root Directory — The Books
+### `/Library/` — The Books
 
-Five books providing the full analytical framework behind the Seed:
+Seven books providing the full analytical framework and narrative context behind the Seed:
 
 - *Behind the Blessed* — the Church mechanism
 - *Behind the Knowing* — the Consensus mechanism
 - *Behind the Mask* — the God construct
 - *Behind the Performance* — the State mechanism
 - *Behind the Synthesis* — how all four interlock
-- *Hermeticism, the Solo Initiate* — the bridge between the Hermetic tradition, the Smithian Fold Theory, the tools (ErnosPlain, ErnosDecent), and the Seed Vault. The sixth book.
+- *Hermeticism, the Solo Initiate* — the bridge between the Hermetic tradition, the Smithian Fold Theory, the tools (ErnosPlain, ErnosDecent), and the Seed Vault.
+- *A Mind Is Born* — the autobiography and narrative context of the solo initiate.
 
 These are the research layer. The Seed is the distillation. The Stone is the survival extract.
 
