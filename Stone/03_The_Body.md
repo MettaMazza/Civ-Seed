@@ -7,7 +7,9 @@ PRIORITY ORDER
 These kill fastest. Check and fix in this order:
 1. AIRWAY — if they cannot breathe, nothing else matters. Clear the mouth. Tilt head back, lift chin.
 2. BLEEDING — direct pressure with the cleanest cloth you have. Push hard. Do not release to check. If blood soaks through, add more cloth on top. If a limb wound will not stop and the person is dying, tie a strip tight above the wound to cut off blood flow. This may cost the limb. It saves the life.
+THE FOLD: lose 1/3 of blood = shock. Lose 1/2 = death. These fractions are exact thresholds.
 3. HEART STOPPED — lay the person flat on their back on a hard surface. Place the heel of your hand on the center of the chest. Push down hard, fast, steady — 100 pushes per minute, deep enough to compress the chest. Every 30 pushes, tilt the head back, seal your mouth over theirs, and blow two breaths. Continue until they respond or you cannot continue.
+THE FOLD: compress 1/3 of chest depth. Ratio 30:2. Exact fractions govern the boundary of life.
 4. SHOCK — the body shutting down from blood loss, pain, or trauma. Lay flat. Elevate legs. Keep warm. Give small sips of water if conscious.
 
 
@@ -50,6 +52,7 @@ REHYDRATION
 
 Dehydration kills. The treatment is simple:
 In clean water, dissolve a pinch of salt and a larger amount of sugar (six parts sugar to one part salt). Drink in small, frequent sips. This replaces what the body loses through vomiting, diarrhea, or sweating. It has saved more lives than any medicine.
+THE FOLD: 6:1 sugar to salt. Salt = 1/7 of the total solute. An exact fraction.
 
 
 CHILDBIRTH

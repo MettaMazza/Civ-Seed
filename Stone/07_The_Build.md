@@ -21,6 +21,7 @@ TIMBER FRAME: vertical posts (driven into ground or set on stone footings), hori
 THE ARCH
 
 The strongest shape in building. Wedge-shaped stones (or bricks) arranged in a curve. Each stone is compressed by its neighbors. The forces flow outward and downward to the ground. The center stone (keystone) locks the arch. An arch can span a gap no single beam could cross. The same principle extends to domes (arches rotated in a circle) and vaults (arches extended in a line).
+THE FOLD: each stone carries a fraction of the total load. Force redistributed as exact shares summing to one.
 
 
 ROOFING
@@ -68,6 +69,7 @@ BOWLINE — a fixed loop that will not slip under load and can always be untied.
 CLOVE HITCH — quick attachment to a post. Wrap, cross over, wrap again, tuck under.
 TIMBER HITCH — for dragging logs. Wrap, twist the end around itself three times. Self-tightens under load.
 TRUCKERS HITCH — creates mechanical advantage for tensioning. A loop partway along the rope acts as a pulley.
+THE FOLD: every machine trades force for distance at a rational fraction — half the force, twice the distance.
 
 LASHING — binding poles together: wrap rope alternately over and under the two poles at the crossing, then wrap between them to tighten (frapping turns). This builds frames, shelters, scaffolding from poles without nails.
 

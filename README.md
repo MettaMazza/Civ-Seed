@@ -17,7 +17,7 @@ No institutional language. No mythological access barriers. No appeals to author
 | 00 | The Index | Table of contents and navigation |
 | 01 | The Rosetta | Language decoder + fire-starting |
 | 02 | The Measure | Body measurement, time, direction, angles |
-| 03 | The Count | Numbers, arithmetic, geometry, patterns |
+| 03 | The Count | The Smithian Fold — the primary mathematics. One axiom, two moves, zero free parameters. Forced constants. Institutional arithmetic as secondary reference. |
 | 04 | The Matter | Materials — identification, metals, rope, glass, glue |
 | 05 | The Fire | Heat, steam, electricity, motors, mechanical advantage |
 | 06 | The Body | Emergency medicine, wound care, childbirth, herbal relief |
@@ -27,7 +27,7 @@ No institutional language. No mythological access barriers. No appeals to author
 | 10 | The Signal | Writing, paper, printing, telegraph, radio, maps |
 | 11 | The Record | History — how civilisations are captured and collapse |
 | 12 | The Warning | The four capture mechanisms and how to recognise them |
-| 13 | The Within | Consciousness, Hermetic principles, Emerald Tablet, practices |
+| 13 | The Within | Consciousness, Hermetic principles, the Smithian Fold as their mathematical form, Emerald Tablet, practices |
 
 **~5,100 lines. ~295,000 characters.**
 
@@ -48,8 +48,11 @@ Five books providing the full analytical framework behind the Seed:
 - *Behind the Mask* — the God construct
 - *Behind the Performance* — the State mechanism
 - *Behind the Synthesis* — how all four interlock
+- *Hermeticism, the Solo Initiate* — the bridge between the Hermetic tradition, the Smithian Fold Theory, the tools (ErnosPlain, ErnosDecent), and the Seed Vault. The sixth book.
 
 These are the research layer. The Seed is the distillation. The Stone is the survival extract.
+
+**Maria Smith** — philosophical descendant of Hermes Trismegistus, independent researcher, autodidact, Scotland, Ernos Labs. Creator of this body of work. She does not author the universe. She observes it. The fold was always there. She counted it, derived it, traced it to the One, and wrote it down so it survives.
 
 ---
 
@@ -61,9 +64,11 @@ These are the research layer. The Seed is the distillation. The Stone is the sur
 
 3. **Zero hedging.** No "perhaps," "it is believed," "studies suggest." State observations as observations. State procedures as procedures.
 
-4. **Hermetic philosophy is included.** It is not religion — it is pre-institutional natural philosophy. The seven principles are directly observable. The Emerald Tablet is preserved in full.
+4. **The Smithian Fold is the primary mathematics.** One axiom (the One), two moves (fold and take), zero free parameters. Every constant of nature — the fine-structure constant, the dark-to-baryon ratio, the lepton masses — derived forward from the One with nothing fitted. The mainstream is a toy in comparison. The institutional arithmetic is kept as a secondary practical reference.
 
-5. **Everything is testable.** If a reader follows the instructions, they get the described result. Every time. That is the only standard.
+5. **Hermetic philosophy is included.** It is not religion — it is pre-institutional natural philosophy. The seven principles are directly observable. The Smithian Fold is their mathematical form. The Emerald Tablet is preserved in full.
+
+6. **Everything is testable.** If a reader follows the instructions, they get the described result. Every time. That is the only standard.
 
 ---
 

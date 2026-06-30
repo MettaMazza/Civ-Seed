@@ -1,5 +1,7 @@
 # 9. The Sky
 
+> *The sky is the largest clock you will ever read. Every cycle up there — day, month, year — is a periodic orbit, a process that returns to where it started. The fold lives in every one of them.*
+
 Everything above you is a map, a clock, and a weather report. You do not need instruments. You need eyes, patience, and a stick.
 
 ---
@@ -197,7 +199,7 @@ These are not superstitions. They are correlations that survive because they wer
 
 One complete cycle of light and dark. The most natural time unit.
 
-Subdivide using the shadow stick: mark the shadow position at regular intervals. The marks become your hours. If you make 12 marks from sunrise to sunset and 12 from sunset to sunrise, you have 24 hours — though the day-hours and night-hours will be different lengths except at the equinoxes.
+Subdivide using the shadow stick: mark the shadow position at regular intervals. The marks become your hours. If you make 12 marks from sunrise to sunset and 12 from sunset to sunrise, you have 24 hours — though the day-hours and night-hours will be different lengths except at the equinoxes. At the equinox, day and night are equal — the 1/2 point of the cycle, the fold's most basic division.
 
 ### The Week
 
@@ -207,7 +209,7 @@ Seven days. This is an arbitrary human convention. Nothing in nature has a seven
 
 One moon cycle: new moon to new moon, approximately 29.5 days.
 
-Some months are 29 days. Some are 30. Over a year, 12 lunar months total approximately 354 days — about 11 days short of a solar year. This drift is why moon-based calendars and sun-based calendars do not naturally align.
+Some months are 29 days. Some are 30. Over a year, 12 lunar months total approximately 354 days — about 11 days short of a solar year. This drift is why moon-based calendars and sun-based calendars do not naturally align. This is the rational approximation problem at work: two periods whose ratio isn't a clean fraction, so you can never tile one perfectly with the other.
 
 ### The Year
 
@@ -225,7 +227,7 @@ The year is not exactly 365 days. It is approximately 365 and one-quarter days. 
 
 **Fix**: every four years, add one extra day.
 
-More precisely: every 100 years, do NOT add the extra day (correction for over-counting). But every 400 years, DO add it after all. This keeps the calendar aligned to within fractions of a day over centuries.
+More precisely: every 100 years, do NOT add the extra day (correction for over-counting). But every 400 years, DO add it after all. This keeps the calendar aligned to within fractions of a day over centuries. Watch the structure: +1/4, −1/100, +1/400. Each correction refines the previous covering — a closer rational approximation to the true year length, each step a smaller fraction patching the gap left by the last.
 
 ### Seasons
 
@@ -262,7 +264,7 @@ Occasionally the earth passes between the sun and the moon. The earth's shadow f
 The pole star's height above the horizon tells you how far north you are:
 - If the pole star is on the horizon: you are at the equator (0 degrees latitude).
 - If the pole star is directly overhead: you are at the north pole (90 degrees latitude).
-- The angle between the horizon and the pole star equals your latitude.
+- The angle between the horizon and the pole star equals your latitude. Your latitude is a fraction of the quarter-turn (90°) — your position expressed as an exact ratio between equator and pole.
 
 Measure this angle with a simple tool: a straight stick with a weight on a string (plumb line). Point the stick at the pole star. The angle between the string (vertical) and the stick gives you the latitude.
 

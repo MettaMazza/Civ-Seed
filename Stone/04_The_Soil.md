@@ -21,6 +21,7 @@ Cucumber, melon, tomato seeds last 5+ years.
 Wheat and rice grains last 5-10+ years if kept dry.
 
 TEST BEFORE PLANTING: lay 10 seeds on damp cloth. Keep moist. If fewer than 6 sprout, the batch is weak — plant thickly or replace.
+THE FOLD: 6 of 10 = 3/5. A rational threshold — the fraction decides viability.
 
 
 SOIL
@@ -39,6 +40,7 @@ What goes wrong: soil that grows the same crop every year becomes exhausted and 
 CROP ROTATION
 
 Never plant the same crop in the same ground two years in a row. Rotate different plants through different areas each season. This breaks disease cycles and lets the soil recover what each crop takes.
+THE FOLD: rotation is a periodic cycle — the pattern returns to its start, like the fold's own period.
 
 A simple rotation: heavy feeders (corn, squash) one year, soil builders (beans, clover) the next, root crops (carrots, turnips) the third, then rest or compost.
 

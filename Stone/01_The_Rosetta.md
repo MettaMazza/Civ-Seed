@@ -35,6 +35,7 @@ Each mark = 10.
 Ten marks = 100. Ten groups of 100 = 1000.
 
 Nothing = 0. The empty space. The absence. It is a number.
+THE FOLD: zero is not a number — it is the absence itself. The fold begins at One, not zero.
 
 COMBINING (adding): 3 stones and 4 stones together = 7 stones.
 REMOVING (subtracting): 7 stones, take away 4 = 3 stones.
@@ -44,6 +45,7 @@ SPLITTING (dividing): 12 stones split into 3 equal groups = 4 stones per group.
 PARTS (fractions): cut something in half = 2 pieces, each is 1/2.
 Cut in 4 = each piece is 1/4.
 Half of half = 1/4. This always works.
+THE FOLD: halving is the fold's doubling reversed. 1, 1/2, 1/4 — each a fold. See Seed, Section 4.
 
 
 LOGIC — HOW TO CONNECT IDEAS

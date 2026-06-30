@@ -1,5 +1,7 @@
 # 3. The Measure
 
+> *Every measurement you will ever make is a ratio — a fraction of the One. You pick a unit, call it "one," and everything else is some fraction or multiple of it. The fold lives here: exact fractions in (0,1], no more, no less.*
+
 You need to measure things: how long, how heavy, how hot, how far, how much time has passed. 
 
 You have no instruments. You have your body, water, sticks, rope, and the sky.
@@ -48,7 +50,7 @@ To make one perfectly:
 
 If they do, the corner between the three-segment side and the four-segment side is a perfect right angle.
 
-This works because 3² + 4² = 5² (nine plus sixteen equals twenty-five). This relationship is a property of right triangles. It does not change. It never has. You can verify it with rope and stakes right now.
+This works because 3² + 4² = 5² (nine plus sixteen equals twenty-five). This relationship is a property of right triangles. It does not change. It never has. You can verify it with rope and stakes right now. Notice: 3, 4, 5 are whole numbers, and their squares lock together exactly. This isn't luck — it's forced by the structure of whole-number squares. The fold's two generators, 2 and 3, are at the root of it.
 
 ---
 
@@ -70,7 +72,7 @@ The object weighs the same as whatever you put in the other pan.
 
 1. Find a stone of convenient size. Call it "one."
 2. Break an identical stone as close to half as you can. Verify by balancing the two halves against each other, then each half against the original. Adjust until each half balances. Each half is "one-half."
-3. Continue halving. You now have: one, one-half, one-quarter, one-eighth.
+3. Continue halving. You now have: one, one-half, one-quarter, one-eighth. These are dyadic rationals — powers of 1/2. Each halving is the fold's doubling in reverse: you started at the One and folded down.
 4. Duplicate your standards. Store the originals safely. Use copies for daily work.
 
 ### Volume — Water Displacement
@@ -112,7 +114,7 @@ Mark the shadow tip at regular intervals throughout the day. These marks become 
 
 ### The Day
 
-One complete cycle of light and dark. Sunrise to sunrise, or midday to midday. This is your base unit of time.
+One complete cycle of light and dark. Sunrise to sunrise, or midday to midday. This is your base unit of time. All timekeeping rests on periodic phenomena — things that repeat. The fold's cyclic structure is here: a process that returns to where it started, every time.
 
 ### The Moon Cycle (Month)
 
@@ -125,7 +127,7 @@ Watch the moon each night.
 - Then it shrinks. After roughly 22 days: half lit again (last quarter).
 - After roughly 29.5 days: invisible again (new moon).
 
-This cycle is the month. It never changes by more than a fraction of a day.
+This cycle is the month. It never changes by more than a fraction of a day. Twelve moon cycles total roughly 354 days — about 11 short of the solar year. The mismatch is a rational approximation problem: two cycles whose ratio is not a clean fraction, so no whole number of months ever fits a whole number of years exactly.
 
 ### The Year
 
@@ -284,7 +286,7 @@ Take any round object. A bowl, a wheel, a tree trunk, a drawn circle.
 
 The answer is always approximately 3.1416.
 
-Try it with a plate. Try it with a barrel. Try it with a circle you drew in the dirt. The number does not change. It is not about the object — it is a property of circles themselves.
+Try it with a plate. Try it with a barrel. Try it with a circle you drew in the dirt. The number does not change. It is not about the object — it is a property of circles themselves. This number — π — is irrational. It sits outside the fold's domain of exact fractions. You can never write it as one whole number over another. But you don't need to. Approximations like 22/7 or 355/113 are rational and close enough for any rope, any wheel, any building you will ever make.
 
 This ratio matters for:
 - Calculating how much rope wraps around a wheel
@@ -323,6 +325,8 @@ A protractor is a half-circle marked with degree divisions. It lets you measure 
    - Bisect 90-180 to get 135.
 5. Bisect again: 0, 22.5, 45, 67.5, 90, 112.5, 135, 157.5, 180.
 6. Continue halving for finer divisions. To get single degrees, divide each smallest section by eye into equal parts.
+
+Notice: each bisection is repeated halving — the fold reversed. You start with the whole angle and fold it down, each step dividing by 2. The precision of your protractor is exactly the number of times you fold.
 
 The more carefully you subdivide, the more precise your protractor. A rough version (marked every 10-15 degrees) is sufficient for most construction. Navigation and star measurement benefit from finer divisions.
 

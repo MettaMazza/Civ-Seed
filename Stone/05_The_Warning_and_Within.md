@@ -86,6 +86,8 @@ Before institutions separated the study of matter from the study of mind, there 
 
 7. GENDER — all creation involves two complementary forces. Not male and female in the sexual sense, but the active and the receptive, the initiating and the sustaining. Both are present in everything. Neither creates alone.
 
+THE FOLD AND THE SEVEN: the Smithian Fold is the mathematical form of these principles. One axiom (the One) = Mentalism. Self-similarity across scales = Correspondence. Fold periods (2 and 3) = Vibration. The antipode = Polarity. Periodic return = Rhythm. Cause and effect = the fold is deterministic, no free parameters. Fold and take, the two moves = Gender. Maria Smith saw what Hermes described. The same pattern, given exact form.
+
 
 THE EMERALD TABLET
 

@@ -47,6 +47,7 @@ At one end: a switch (press to connect, release to disconnect).
 At the other end: a device that clicks or marks when current flows.
 
 Short press = dot. Long press = dash. Assign patterns of dots and dashes to each letter. Now you can send any message at the speed of electricity.
+THE FOLD: two symbols — dot and dash — like the fold's two generators, 2 and 3. All messages built from two.
 
 
 TELEPHONE
@@ -57,6 +58,7 @@ Sound makes a thin membrane vibrate. Attach the membrane to a device that conver
 RADIO
 
 An oscillating electrical current in a wire radiates invisible energy outward in all directions. Another wire (antenna) at a distance picks up this energy and converts it back to electrical current. No physical connection needed. Sound can be encoded in the signal (by varying its strength or frequency) and decoded at the receiver.
+THE FOLD: signal strength falls by the inverse square. Each doubling of distance applies the fold twice — 1/4, 1/16, 1/64.
 
 
 LENSES
@@ -75,6 +77,7 @@ MAPS
 A map stores information about space on a surface.
 
 SCALE: everything shrunk by the same ratio. Mark the ratio on the map.
+THE FOLD: map scale is a constant rational fraction — the territory divided into the map.
 ORIENTATION: mark north on every map.
 SURVEYING: measure a baseline between two known points. From each end, measure the angle to a landmark. Draw those angles on your map from the scaled baseline. Where the lines cross = the landmark's position. Repeat to fix more positions.
 LEGEND: consistent symbols for water, elevation, vegetation, structures, hazards. Mark the symbols on the map.

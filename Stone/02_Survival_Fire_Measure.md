@@ -12,10 +12,12 @@ PACE — one full step
 HEIGHT — top of head to ground
 
 To make a standard: pick one person. Mark their measurements on a straight stick. Copy that stick. Every copy is the same. Now everyone measures the same.
+THE FOLD: every measurement is a ratio — one length against another. No ratio, no measure.
 
 RIGHT ANGLES — THE 3-4-5 METHOD
 
 Take a rope. Tie 12 equally spaced knots. Stretch it into a triangle: 3 spaces on one side, 4 on the next, 5 on the last. The corner between 3 and 4 is a perfect right angle. Every time. Verify by measuring — the two shorter sides' squares add to the longest side's square. 9 + 16 = 25.
+THE FOLD: 3-4-5 is forced — the only triangle where whole-number squares sum exactly.
 
 
 DIRECTION — THE SHADOW STICK
@@ -99,9 +101,11 @@ MECHANICAL ADVANTAGE
 LEVER: a rigid bar on a pivot (fulcrum). Move the fulcrum closer to the load, push on the long end. A small force moves a heavy load.
 
 PULLEY: a wheel with a groove. Thread a rope through. One pulley changes direction of force (pull down to lift up). Two pulleys = half the effort for the same lift. More pulleys = more advantage.
+THE FOLD: each added pulley halves the force — 1/2, 1/4, 1/8. These are dyadic rationals, the fold's own fractions.
 
 INCLINED PLANE (ramp): pushing a load up a gentle slope requires less force than lifting it straight up. Longer ramp = less force needed.
 
 SCREW: an inclined plane wrapped around a cylinder. Turns rotary motion into linear motion. Each turn advances a small distance with great force.
 
 GEAR: two toothed wheels interlocked. A small gear driving a large one = slow speed, high force. A large gear driving a small one = high speed, low force. This is how you match a power source to a task.
+THE FOLD: every gear ratio is an exact fraction. No approximation — teeth must mesh.

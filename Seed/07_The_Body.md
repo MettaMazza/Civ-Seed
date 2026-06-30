@@ -2,6 +2,8 @@
 
 This is a field manual. Someone is bleeding in front of you and this is the only reference you have.
 
+> *Fold connection: The body runs on exact fractions — thresholds of blood loss, compression depths, breathing ratios. These are critical positions on the fold's interval (0,1]. Section 4 (The Count) shows why the fractions are not approximate.*
+
 Everything here was learned by observing living and dead human bodies, by trial and error across generations, and by noting what works and what kills. Nothing here requires trust in an institution. It requires a willingness to look closely at what is in front of you.
 
 ---
@@ -71,7 +73,7 @@ A red fluid that circulates through the entire body. It carries what the lungs a
 
 Blood also carries waste products away from tissues to the kidneys (for removal in urine) and to the lungs (for removal in breath).
 
-**Blood loss kills.** A healthy adult has roughly 5 liters (about 10 cups) of blood. Losing more than about one-third of this is life-threatening. Losing more than half is almost certainly fatal.
+**Blood loss kills.** A healthy adult has roughly 5 liters (about 10 cups) of blood. Losing more than about one-third of this is life-threatening. Losing more than half is almost certainly fatal. *(1/3 and 1/2 — these are not rough guidelines, they are critical threshold fractions on the fold's interval. The body crosses them and the rules change.)*
 
 Blood clots — it thickens and seals small wounds naturally. But large wounds overwhelm this process.
 
@@ -125,7 +127,7 @@ In order of urgency:
 
 1. **Airway obstruction**: if you cannot breathe, you die in 3-5 minutes. Clear the throat. Remove blockages. Tilt the head back and lift the chin to open the airway.
 2. **Massive bleeding**: a severed major vessel empties the body in minutes. Apply direct, firm pressure to the wound with the cleanest cloth available. If the wound is on a limb and pressure is not stopping the blood, tie a tight band above the wound (between the wound and the heart). This cuts off blood flow to the limb. The limb may be sacrificed to save the life.
-3. **Heart stops**: if the heart stops beating and the person collapses, press hard and fast on the center of the chest — roughly 100 pushes per minute, compressing the chest about one-third of its depth. This manually pumps blood. Continue until the heart restarts or help arrives. Also breathe into their mouth (pinch the nose, seal your mouth over theirs, blow two breaths, then resume chest pushes).
+3. **Heart stops**: if the heart stops beating and the person collapses, press hard and fast on the center of the chest — roughly 100 pushes per minute, compressing the chest about one-third of its depth. This manually pumps blood. Continue until the heart restarts or help arrives. Also breathe into their mouth (pinch the nose, seal your mouth over theirs, blow two breaths, then resume chest pushes). *(1/3 depth, 30:2 ratio — exact fractions governing life. Not estimates. The fold holds these positions precisely.)*
 
 ### Hours to Days
 

@@ -1,5 +1,7 @@
 # 10. The Build
 
+> **The fold at work.** Every structure is a balance of forces, and every machine in this section trades force for distance at a ratio — always an exact fraction. Mechanical advantage gives you rational ratios: a 4-pulley block and tackle takes 1/4 the force at 4 times the rope, no remainder, no approximation. An arch redistributes force through the curve — each stone carries a share, and those shares partition the total load exactly, the way fractions partition the One. The mathematics behind these ratios lives in Section 4 (The Count).
+
 Every structure solves the same problem: keeping weight up and weather out.
 
 This section covers the principles and techniques of building — from a shelter that lasts one night to a bridge that lasts a century. Every technique here has been used, tested, and refined by hands and observation.

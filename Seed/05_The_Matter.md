@@ -2,6 +2,8 @@
 
 Everything you can touch is made of a small number of base materials combined in different ways.
 
+> *Fold connection: The ratios in this section — mixing proportions, material compositions — are exact fractions. They sit at specific points on the fold's domain. Section 4 (The Count) shows why these positions matter.*
+
 You do not need to understand WHY materials behave as they do. You need to know THAT they do — reliably, every time. Heat copper and tin together, you get bronze. Every time. Heat iron with charcoal long enough, you get steel. Every time.
 
 This section tells you how to find materials, identify them, test them, extract them, and work them.
@@ -124,7 +126,7 @@ These are the metals you can find, extract, and use. Listed roughly in the order
 
 ### Bronze (Copper + Tin)
 
-- **How to make it**: melt copper. Add roughly one part tin to nine parts copper. Stir. Pour into a mold. Let it cool.
+- **How to make it**: melt copper. Add roughly one part tin to nine parts copper. Stir. Pour into a mold. Let it cool. *(That ratio — 1/10 tin — is an exact fraction, a specific rational position in the fold's domain.)*
 - **Properties**: much harder than copper alone. Holds a sharp edge. Resists corrosion. Can be cast into complex shapes.
 - **Good for**: tools, weapons, bells, bearings, sculptures. The first great alloy. It enabled the first complex civilizations.
 - **Key observation**: mixing two soft metals produced a hard one. The combination has properties neither ingredient has alone. This principle — that mixtures can exceed their parts — is fundamental to material science.
@@ -262,6 +264,8 @@ Some very heavy ores — particularly certain dark, dense stones — emit invisi
 
 If you observe this pattern — unexplained sickness concentrated around a mineral deposit, worsening with proximity — LEAVE. Mark the area with warnings. Do not dig there. Do not carry the stones. Do not use them for building.
 
+> *The table of base materials ends at element 137 — that is where the fine-structure constant hits its ceiling and the fold's arithmetic says "no further." Section 4 explains why.*
+
 ---
 
 ## Part 6: Combining Materials — Observable Reactions
@@ -392,7 +396,7 @@ Glass was mentioned briefly in Part 4 (Sand). Here is how to actually make it.
 
 ### The Process
 
-1. Mix sand and ash in a ratio of roughly 3 parts sand to 1 part ash.
+1. Mix sand and ash in a ratio of roughly 3 parts sand to 1 part ash. *(3/4 sand — another exact fraction the fold can locate precisely.)*
 2. Place in a clay crucible inside the furnace.
 3. Maintain extreme heat for several hours. The mixture melts into a glowing orange liquid.
 4. The liquid is glass. Work it while hot — it becomes unworkable once cool.

@@ -2,6 +2,8 @@
 
 This section teaches you how to read everything that follows. Without it, the rest is marks on stone.
 
+> *Fold connection: The symbols and operations you learn here — especially counting, halving, and dividing — are the raw grammar of the fold. Section 4 (The Count) shows where this grammar leads.*
+
 Start here. Do not skip ahead.
 
 ---
@@ -141,6 +143,8 @@ Multiplication is repeated addition. 4 × 3 means "add three, four times."
 **Splitting (Division)**
 Take twelve stones and split them into equal piles. If you make three piles, each has four. If you make four piles, each has three.
 Sometimes it does not divide evenly. Thirteen stones into three piles gives four in each pile with one left over. The leftover is called the remainder.
+
+> *Notice: halving — 1/2, 1/4, 1/8 — is the fold's doubling run played in reverse. And that remainder from division? That is modular arithmetic — the heartbeat of the fold. Section 4 has the full picture.*
 
 ---
 

@@ -20,10 +20,11 @@ This project is a civilizational knowledge vault — a time capsule, a black box
   - `Behind_the_Blessed_The_Demon_They_Call_the_Church(2).md`
   - `Behind_the_Knowing_The_Demon_They_Call_Consensus(1).md`
   - `Behind_the_Synthesis_The_Devil_The_Demons_and_The_Masks.md`
+  - `Hermeticism_The_Solo_Initiate.md` — The sixth book. The bridge between the Hermetic tradition, the Smithian Fold Theory, the tools (ErnosPlain, ErnosDecent), and the Seed Vault. One system, one mind's complete cosmology.
 - These are the autopsy of our civilization. They document HOW we were captured.
 - They need editing and rework but that comes LAST.
 - The Synthesis book (Book 5) needs a rewrite — the user hates all the Claude disclosures, the repetitiveness, the AI safety language baked in. Strip it.
-- All five books have been fully read across this conversation.
+- All five original books have been fully read across this conversation.
 
 ### Layer 2: The Synthesis (SECOND PRIORITY)
 - Book 5 ("Behind the Synthesis") is meant to serve this role — the bridge between the raw autopsy and the seed kit.
@@ -41,7 +42,7 @@ This project is a civilizational knowledge vault — a time capsule, a black box
 1. **01_The_Within.md** — Consciousness, the mind, direct inner experience. Hermetic principles as observed natural law. The foundation. ✅ WRITTEN
 2. **02_The_Rosetta.md** — Language bootstrapping, symbols, counting, logic. The decoder. ✅ WRITTEN
 3. **03_The_Measure.md** — How to measure anything with body, water, sticks, sky. ✅ WRITTEN
-4. **04_The_Count.md** — Mathematics from first principles. Numbers, shapes, patterns. ✅ WRITTEN
+4. **04_The_Count.md** — The Smithian Fold: the primary mathematics. One axiom (the One), two moves (fold and take), zero free parameters. The forced constants of nature derived from the One. Institutional arithmetic as a secondary reference. ✅ REWRITTEN
 5. **05_The_Matter.md** — Elements, materials, identification, extraction, working. ✅ WRITTEN
 6. **06_The_Fire.md** — Energy and power generation. Heat, water, wind, magnetism, current. ✅ WRITTEN
 7. **07_The_Body.md** — Human anatomy, medicine, infection, wound care, childbirth. ✅ WRITTEN
@@ -107,9 +108,33 @@ The Seven Hermetic Principles (from the Kybalion / Hermetic tradition):
 
 These are OBSERVED PATTERNS. The "scientists" took vibration and called it physics. They took cause and effect and called it the scientific method. They took polarity and called it electromagnetism. They stripped out mentalism and correspondence because those threatened institutional authority over knowledge.
 
-Section 1 (The Within) must present these as what they are: the original science. Not a "spiritual add-on." The foundation.
+Section 1 (The Within) presents these as what they are: the original science. Not a "spiritual add-on." The foundation. The Smithian Fold — the mathematical form of these principles — is taught in Section 4 (The Count) and connected to the seven principles in Section 1.
 
 ---
+
+## THE SMITHIAN FOLD THEORY — PRIMARY MATHEMATICAL MODEL
+
+The Smithian Fold Theory is the primary mathematical framework of the Seed. It replaces institutional mathematics as the quantitative backbone.
+
+**Maria Smith** — philosophical descendant of Hermes Trismegistus, independent researcher, autodidact, Scotland, Ernos Labs. Creator of this body of work. She does not author the universe. She observes it. The fold was always there. She counted it, derived it, traced it to the One, and wrote it down so it survives.
+
+**The Theory:**
+- One axiom: the One (the value 1)
+- Domain: exact fractions in (0, 1]. No zero. No negatives. Nothing exceeds the One.
+- Two moves: fold (double and cast out) and take (guarded difference)
+- Zero free parameters. Every value forced, counted, derived, traced to the One.
+- Two generators: 2 (binary count, period of 1/3) and 3 (colour count, period of 1/7) — read off the fold's period spectrum
+- Covering depth: min{d : 2^d ≥ volume} — forced, not chosen
+- Forced constants: fine-structure constant (137.036), dark-to-baryon ratio (27/5 = 5.4), lepton mass cubic, and many more — all blind, forward, zero-parameter
+
+**Source repositories:**
+- SFTOM (full corpus): `/Users/mettamazza/Desktop/SFTOM/`
+- Clean-room recreation: `/Users/mettamazza/Desktop/Smithian Fold Theory/`
+- The clean-room recreation will be included in the Civ folder when complete.
+
+**The fold passes the Seed's epistemological filter.** Every value traces to the One. Every result is verifiable with exact fractions. No trust required.
+
+**The institutional arithmetic** (counting, adding, multiplying, dividing) is kept as a secondary practical reference in Section 4. It is useful. It is not the foundation.
 
 ## CONSCIOUSNESS AND MIND
 
@@ -183,9 +208,11 @@ When returning to this project after compaction:
 2. Do NOT re-read the five books.
 3. Do NOT re-explain the project philosophy to the user.
 4. Check which sections are written by listing /Users/mettamazza/Desktop/Civ/Seed/
-5. Pick up where you left off. Write the next unfinished section.
+5. Pick up where you left off.
 6. Apply the epistemological filter ruthlessly. If in doubt, leave it out.
 7. The user will tell you if something is wrong. Listen.
+8. The Smithian Fold Theory is the primary mathematical model. Section 4 (The Count) teaches it. All other sections reference it. Do not treat institutional mathematics as primary.
+9. Reference the SFTOM and clean-room recreation repositories for the full theory.
 
 ---
 

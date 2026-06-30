@@ -24,6 +24,7 @@ Green or blue-green stained rock = copper ore. Crush the ore. Heat with charcoal
 BRONZE = COPPER + TIN
 
 Melt copper. Add one part tin to nine parts copper. Stir. Pour into mold. Much harder than copper alone. Holds an edge. The first great alloy.
+THE FOLD: 1 part in 10 = 1/10, an exact fraction in the domain (0,1]. Every alloy ratio is a fold fraction.
 
 IRON
 
@@ -54,6 +55,7 @@ PITCH: tree resin + crushed charcoal, heated. Waterproof sealant and adhesive.
 GLASS
 
 Sand + plant ash + extreme heat. Mix roughly 3 parts sand to 1 part ash. Heat in a crucible inside a furnace for hours until it melts to glowing orange liquid. Shape while hot: pour into flat molds (windows), blow through a hollow tube (vessels), or draw into rods. Pure white sand = clear glass. Iron in the sand = green glass. Glass gives you lenses, vessels, windows, thermometers.
+THE FOLD: 3 parts in 4 = 3/4, exact fraction. Mixing is division of the whole into shares.
 
 SOAP = FAT + LYE + HEAT
 

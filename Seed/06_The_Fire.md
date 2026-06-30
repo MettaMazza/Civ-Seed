@@ -1,5 +1,7 @@
 # 6. The Fire
 
+> **The fold at work.** Energy is action — every machine in this section trades force for distance at an exact ratio, and that ratio is always a fraction. Gear ratios are exact fractions: a 12-tooth gear driving a 36-tooth gear gives 3/1, and the product of force × distance is conserved through the trade. Pulleys give you dyadic rationals — 1, 1/2, 1/4 — each added pulley applies one fold, halving the force and doubling the rope. A transformer's turn ratio is a rational fraction: 100 turns to 10 turns is 10/1, no free parameters, no approximation. And the generator and motor are the same machine pointed in opposite directions — spin the coil to get current, send current to spin the coil. The mathematics behind all of these ratios lives in Section 4 (The Count).
+
 Fire was the first technology. Everything that follows — metal, glass, pottery, engines, electricity — traces back to controlling heat.
 
 This section covers every form of energy a human can directly harness, from burning wood to generating electrical current. Each step builds on the last.

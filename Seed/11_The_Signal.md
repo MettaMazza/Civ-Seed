@@ -1,5 +1,7 @@
 # 11. The Signal
 
+> *Every signal you send travels outward and weakens by exact ratios. The fold is in every one of them: distance doubles, strength quarters, and the mathematics never flinch.*
+
 The ability to send information across distance is what separates a village from a civilization.
 
 This section covers every method of communication that can be built from basic materials — from shouting to electrical transmission.
@@ -15,7 +17,7 @@ Sound travels through air. You hear it because vibrations in the air reach your 
 - Sound is slower than light. You see lightning before you hear thunder. You see an axe hit before you hear the chop. The gap tells you the distance — roughly three heartbeats per thousand paces.
 - Sound travels faster through solid material than through air. Press your ear to the ground and you can hear distant footsteps or hoofbeats before they are audible through the air.
 - Sound travels through water faster than through air.
-- Sound gets weaker with distance. Twice as far away, roughly four times weaker (inverse square — see Section 4).
+- Sound gets weaker with distance. Twice as far away, roughly four times weaker (inverse square — see Section 4). Each doubling of distance applies the fold twice: double once, quarter the strength. The ratio is exact.
 - Sound reflects off hard surfaces (echo). Stand near a cliff face and shout. You hear your voice returned to you.
 
 ### Amplifying Sound
@@ -49,7 +51,7 @@ Light travels in straight lines. It is much faster than sound — for all practi
 
 Any sequence of short and long flashes can represent letters or words.
 
-A simple system: assign each letter of your alphabet a unique combination of short flashes (dots) and long flashes (dashes). Separate letters with a pause. Separate words with a longer pause.
+A simple system: assign each letter of your alphabet a unique combination of short flashes (dots) and long flashes (dashes). Separate letters with a pause. Separate words with a longer pause. This is a binary system — two symbols, two states, on or off, short or long. Like the fold's two generators (2 and 3), two elements are enough to build everything.
 
 For example:
 - A = short, long
@@ -282,7 +284,7 @@ A map is a signal about geography. It records what is where — so that anyone w
 
 ### The Principle of Scale
 
-A map represents a large area on a small surface. Everything is shrunk by the same ratio. If one pace on the ground equals one finger-width on the map, then 1,000 paces equals 1,000 finger-widths (roughly 10 arm-spans on the map surface).
+A map represents a large area on a small surface. Everything is shrunk by the same ratio. If one pace on the ground equals one finger-width on the map, then 1,000 paces equals 1,000 finger-widths (roughly 10 arm-spans on the map surface). That ratio — one pace to one finger-width — is a constant rational scaling factor, a single fraction applied uniformly. The mathematics behind it are in Section 4.
 
 Choose a scale that fits your purpose. A map of your settlement and its surrounding fields needs a large scale (high detail, small area). A map of a region or a coastline needs a small scale (less detail, large area).
 

@@ -32,6 +32,7 @@ The two stars at the outer edge of the cup are the pointer stars. Draw a line th
 VERIFICATION: watch for an hour. All stars visibly shift position. The pole star does not. It stays fixed while the sky wheels around it.
 
 The angle of the pole star above the horizon equals your LATITUDE — your position between the equator (pole star on the horizon = 0 degrees) and the pole (pole star directly overhead = 90 degrees). A fist held at arm's length = approximately 10 degrees.
+THE FOLD: latitude is a fraction of the quarter-turn. Every position on earth = an exact share of 90.
 
 
 FINDING SOUTH — SOUTHERN CROSS
@@ -55,8 +56,10 @@ LONGEST shadow = WINTER. The sun is low. Days are short. Cold.
 SHORTEST shadow = SUMMER. The sun is high. Days are long. Warm.
 
 The two days when shadow length is midway between extremes = EQUINOXES. Day and night are equal. These mark the transitions between warm and cold seasons.
+THE FOLD: equinox = the 1/2 point. Day and night split the cycle into equal shares.
 
 YEAR: count full moon cycles between two identical shadow-length days = approximately 12.4 moon cycles = one year.
+THE FOLD: 12 moons in a sun-year is a rational approximation problem. 354/365 is close but never exact — the remainder demands intercalation.
 
 
 WEATHER PREDICTION

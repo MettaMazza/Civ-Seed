@@ -2,6 +2,8 @@
 
 If you cannot grow food, nothing else in this vault matters.
 
+> *Fold connection: Soil works in cycles — rotation, seasons, germination thresholds. These are periodic patterns and exact rational boundaries. The fold returns, and so does the harvest. Section 4 (The Count) shows the mathematics beneath the rhythm.*
+
 Everything here was learned by people with dirt under their fingernails who watched what worked and what failed, season after season, generation after generation.
 
 ---
@@ -42,7 +44,7 @@ Not all seeds survive storage equally. This matters when planning reserves.
 
 These are approximate and depend on storage conditions. Cool, dry, dark storage extends life. Hot, damp, or fluctuating conditions shorten it.
 
-Always test before planting: place 10 seeds on a damp cloth. Keep moist for several days. Count how many sprout. If fewer than 6 of 10 germinate, plant more thickly to compensate or replace the batch.
+Always test before planting: place 10 seeds on a damp cloth. Keep moist for several days. Count how many sprout. If fewer than 6 of 10 germinate, plant more thickly to compensate or replace the batch. *(6/10 = 3/5 — a specific rational point on the fold's interval, separating viable seed from weak. The threshold is exact, not arbitrary.)*
 
 ---
 
@@ -88,6 +90,8 @@ Grow different types of crops in the same field in a cycle:
 **Year 4 — Fallow (rest)**: let the field grow wild. Graze animals on it. Their manure feeds the soil. The roots of wild plants hold the soil and restore structure.
 
 Then repeat.
+
+> *Four years. A periodic cycle of length 4 — the fold wraps every 4 steps and starts again. Rotation is periodicity made practical.*
 
 This system sustained farms for centuries before artificial methods existed. It works because different plants interact with the soil differently, and rest allows recovery.
 
@@ -363,6 +367,8 @@ Use the shadow stick from Section 3. The midday shadow length tells you where yo
 - Longest day → midwinter.
 
 Moon cycles refine your calendar further. Count moons between solstices.
+
+> *The seasons are periodic — the fold returns. Summer to winter to summer, the same cycle endlessly. Periodicity is the fold's signature in the physical world.*
 
 ### Frost Dates
 

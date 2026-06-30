@@ -14,10 +14,10 @@ We are leaving you the knowledge without the structures.
 
 ## Contents
 
-1. **[The Within](01_The_Within.md)** — Consciousness, the mind, and the natural laws that govern both inner and outer. The original science before the institutions carved it up. The foundation.
+1. **[The Within](01_The_Within.md)** — Consciousness, the mind, and the natural laws that govern both inner and outer. The Hermetic principles and their mathematical form — the Smithian Fold. The foundation.
 2. **[The Rosetta](02_The_Rosetta.md)** — How to read this. Symbols, counting, logic. The decoder.
 3. **[The Measure](03_The_Measure.md)** — How to measure anything using your body, water, and the sun.
-4. **[The Count](04_The_Count.md)** — Mathematics from scratch. Numbers, shapes, patterns.
+4. **[The Count](04_The_Count.md)** — The Smithian Fold: the primary mathematics. One axiom, two moves, zero free parameters. The forced constants of nature, derived from the One. Institutional arithmetic as a secondary reference.
 5. **[The Matter](05_The_Matter.md)** — What things are made of. How to find them, test them, work them.
 6. **[The Fire](06_The_Fire.md)** — Energy. Heat, water, wind, magnetism, current. How to make power.
 7. **[The Body](07_The_Body.md)** — The human machine. How it works, how it breaks, how to fix it.
@@ -36,7 +36,7 @@ Start with The Within. It is the foundation — the principles that govern every
 
 Then move to The Rosetta. It teaches you how to read the rest.
 
-Every section builds on the ones before it. The Measure gives you tools. The Count gives you logic. The Matter gives you materials. The Fire gives you power. Everything after that is application.
+Every section builds on the ones before it. The Measure gives you tools. The Count gives you the mathematics — the Smithian Fold, the primary framework — and the institutional arithmetic as a practical reference. The Matter gives you materials. The Fire gives you power. Everything after that is application.
 
 The last two sections — The Record and The Warning — are not instruction. They are testimony and pattern recognition. Read them. Learn from what we did to ourselves.
 
